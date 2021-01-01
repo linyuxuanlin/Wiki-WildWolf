@@ -1,30 +1,35 @@
-baseURL = "https://wiki-wolf-hugo.vercel.app/"
-languageCode = "zh-cn"
-title = "野狼知识库"
-theme = "hugo-cards"
-paginate = 10
+baseurl = "https://bool.netlify.com"
+title = "Bool"
+theme = "creative"
+languageCode = "en-us"
+# Enable comments by entering your Disqus shortname
+disqusShortname = ""
+# Enable Google Analytics by entering your tracking code
+googleAnalytics = ""
 
 [params]
-  builtBy = "Power"
-  defaultImage = "gopher.jpg"
+  # Style options: default (pink), blue, green, pink, red, sea, violet
+  # Use custom.css for your custom styling
+  style = "green"
+  description = "Bool"
+  copyright = "2018"
+  sidebarAbout = [
+    "Software engineer, developer and crafstman. Successfully developing and delivering software since 2009.",
+    "Puebla, MX"
+  ]
 
-  facebook = ""
-  quora = ""
-  twitter = ""
-  github = ""
-  email = ""
+  # Nav links in the side bar
+  [[params.navlinks]]
+  name = "Home"
+  url = "/"
+  home = true
 
-  fbLikeBox = ""
-  fbAppId = ""
-  fbPageUrl = ""
-  fbPageTitle = ""
-
-  analytics = ""
-  disqus = ""
-
-  custom_css = ["css/custom.css"]
-
-  [params.copyright]
-     name = "Power"
-     link = "https://wiki-wolf-hugo.vercel.app"
-
+  [params.social]
+  # facebook      = "full page or profile url in facebook"
+  # googleplus    = "full profile url in googleplus"
+  # email         = "email@example.com"
+  # twitter       = "full profile url in twitter"
+  # linkedin      = "full profile url in linkedin"
+  # stackoverflow = "full profile url in stackoverflow"
+  # instagram     = "full profile url in instagram"
+  github        = "https://github.com/bul-ikana"
