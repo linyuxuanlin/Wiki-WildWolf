@@ -378,10 +378,10 @@ SIDEBAR + RIGHT COLUMN
 
 .sidebar-content {
   z-index: 0;
-  padding: 0 0.7em 0 0em;
+  padding: 0 1.7em 0 0em;
 }
 
-@media screen and (min-width: 992px) {
+@media screen and (min-width: 92px) {
   .sidebar-content {
     padding-left: 0px;
     padding-right: 18px;
