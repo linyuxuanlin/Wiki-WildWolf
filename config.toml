@@ -1,7 +1,7 @@
 baseURL = "https://wiki-wolf-hugo.vercel.app/"
 languageCode = "zh-cn"
 title = "野狼知识库"
-theme = "hugo-cards"
+theme = "hugo-creative-portfolio"
 paginate = 10
 
 [params]
