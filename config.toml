@@ -1,4 +1,4 @@
-baseURL = "https://hugo-cards-site.netlify.app/"
+baseURL = "https://wiki-wolf-hugo.vercel.app/"
 languageCode = "en-us"
 title = "Hugo Cards"
 theme = "hugo-cards"
