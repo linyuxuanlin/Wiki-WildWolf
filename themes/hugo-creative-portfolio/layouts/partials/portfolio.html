@@ -7,11 +7,9 @@
                   <div class="box-masonry">
                       {{ if and (isset .Params "image") .Params.image }}
                         {{ if eq .Params.showonlyimage true }}
-                          {{ if eq .Params.isurl true }}
-                          <a href="{{.Params.url}}" title="" class="box-masonry-image with-hover-overlay">
-                          {{ else }}
-                          <a href="{{.Params.url}}" title="" class="box-masonry-image with-hover-overlay with-hover-icon">
-                          {{ end }}
+                        <a href="{{.Params.url}}" title="" class="box-masonry-image with-hover-overlay">
+                        {{ else }}
+                        <a href="{{.Params.url}}" title="" class="box-masonry-image with-hover-overlay with-hover-icon">
                         {{ end }}
                             <img src="{{.Params.image | absURL}}" alt="" class="img-responsive">
                         </a>
