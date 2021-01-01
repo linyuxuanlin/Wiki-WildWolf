@@ -4,27 +4,5 @@ title = "野狼知识库"
 theme = "hugo-creative-portfolio"
 paginate = 10
 
-[params]
-  builtBy = "Power"
-  defaultImage = "gopher.jpg"
 
-  facebook = ""
-  quora = ""
-  twitter = ""
-  github = ""
-  email = ""
-
-  fbLikeBox = ""
-  fbAppId = ""
-  fbPageUrl = ""
-  fbPageTitle = ""
-
-  analytics = ""
-  disqus = ""
-
-  custom_css = ["css/custom.css"]
-
-  [params.copyright]
-     name = "Power"
-     link = "https://wiki-wolf-hugo.vercel.app"
-
+style = "default"
