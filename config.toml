@@ -14,7 +14,7 @@ googleAnalytics = ""
   # Use custom.css for your custom styling
   style = "default"
   description = "Describe your website"
-  copyright = "&copy;2016 Your name or company"
+  copyright = "&copy;2021 THE WOLF TEAM OF GCU ROBOT"
   sidebarAbout = [
     "知识库",
     "..."
