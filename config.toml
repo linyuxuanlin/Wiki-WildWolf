@@ -2,3 +2,30 @@ baseURL = "https://wiki-wolf-hugo.vercel.app/"
 languageCode = "zh-cn"
 title = "野狼知识库"
 theme = "cards"
+
+paginate = 6
+
+
+[params]
+  builtBy = "bool"
+  defaultImage = "gopher.jpg"
+
+  facebook = ""
+  quora = ""
+  twitter = "http://twitter.com/bul_ikana"
+  github = "http://github.com/bul-ikana"
+  email = ""
+
+  fbLikeBox = ""
+  fbAppId = ""
+  fbPageUrl = ""
+  fbPageTitle = ""
+
+  analytics = ""
+  disqus = ""
+
+  custom_css = ["css/custom.css"]
+
+  [params.copyright]
+     name = "bool"
+     link = "https://bool.netlify.com"
