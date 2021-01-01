@@ -1,7 +1,7 @@
-baseurl = "https://bool.netlify.com"
-title = "Bool"
+baseurl = "https://wiki-wolf-hugo.vercel.app/"
+title = "野狼知识库"
 theme = "creative"
-languageCode = "en-us"
+languageCode = "zh-cn"
 # Enable comments by entering your Disqus shortname
 disqusShortname = ""
 # Enable Google Analytics by entering your tracking code
