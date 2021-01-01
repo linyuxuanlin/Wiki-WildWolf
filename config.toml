@@ -1,10 +1,8 @@
-baseURL = "https://wiki-wolf-hugo.vercel.app/"
-languageCode = "zh-cn"
-title = "野狼知识库"
-theme = "cards"
-
+baseURL = "https://hugo-cards-site.netlify.app/"
+languageCode = "en-us"
+title = "Hugo Cards"
+theme = "hugo-cards"
 paginate = 6
-
 
 [params]
   builtBy = "bool"
@@ -29,3 +27,4 @@ paginate = 6
   [params.copyright]
      name = "bool"
      link = "https://bool.netlify.com"
+
