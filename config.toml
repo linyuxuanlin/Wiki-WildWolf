@@ -1,4 +1,5 @@
-baseURL = "http://example.org/"
+baseURL = "https://wiki-wolf-hugo.vercel.app
+/"
 languageCode = "zh-cn"
 title = "野狼知识库"
 theme = "cards"
