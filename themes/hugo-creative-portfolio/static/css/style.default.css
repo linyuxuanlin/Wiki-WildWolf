@@ -372,20 +372,13 @@ fieldset[disabled] .btn-white.active {
 SIDEBAR + RIGHT COLUMN
 =====================
 */
-#sidebar {
-  padding-top: 40px;
-}
 
 .sidebar-content {
+  position: fixed;
+  width: inherit;
   z-index: 0;
-  padding: 0 1.7em 0 0em;
-}
+  padding: 0 1em 0 0.2em;
 
-@media screen and (min-width: 992px) {
-  .sidebar-content {
-    padding-left: 0px;
-    padding-right: 18px;
-  }
 }
 
 .sidebar-heading {
@@ -411,6 +404,8 @@ SIDEBAR + RIGHT COLUMN
 .sidebar-p {
   color: #999999;
   font-size: 14px;
+  overflow: hidden;
+  width: 100%;
 }
 
 .sidebar-menu {
@@ -580,7 +575,7 @@ OFF-CANVAS SIDEBAR BEHAVIOUR
   .sidebar-offcanvas {
     position: absolute;
     top: 0;
-    width: 50%;
+    width: 48%;
     /* 6 columns */
   }
 }
@@ -780,13 +775,7 @@ COPYRIGHT
 }
 
 .copyright p.credit a {
-  color: #999999;
-}
-
-@media (max-width: 991px) {
-  .copyright p.credit {
-    text-align: center !important;
-  }
+  color: #8ce2b1;
 }
 
 @media (max-width: 991px) {
@@ -984,7 +973,9 @@ a:active {
   background: #fff;
   margin-bottom: 30px;
   position: relative;
-  box-shadow: 0 0 5px #ccc;
+  border: 1px solid #d0f3df33;
+  border-radius: 5px;
+  /*box-shadow: 0 0 5px #ccc;*/
   -webkit-transition: all 0.2s ease-out;
   -moz-transition: all 0.2s ease-out;
   transition: all 0.2s ease-out;
