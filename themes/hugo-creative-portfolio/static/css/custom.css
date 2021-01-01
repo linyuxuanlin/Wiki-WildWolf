@@ -85,7 +85,7 @@ small {
         left: 0;
         padding-left: 20px;
         padding-right: 20px;
-        width: 300px;
+        width: 250px;
     }
 
     #sidebar {
@@ -93,6 +93,6 @@ small {
     }
 
     .content-column {
-        margin-left: 250px;
+        margin-left: 300px;
     }
 }
