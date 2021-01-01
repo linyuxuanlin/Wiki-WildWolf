@@ -15,7 +15,7 @@
 
     <div class="copyright">
       <p class="credit">
-        {{ with .Site.Params.copyright }} {{ . | safeHTML }} | {{ end }} {{
+        {{ with .Site.Params.copyright }} {{ . safeHTML }} | {{ end }} {{
         partial "attribution.html" . }}
       </p>
     </div>
