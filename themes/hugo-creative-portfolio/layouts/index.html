@@ -1,10 +1,5 @@
 <head>
   <link rel="shortcut icon" href="/img/aviconfile.ico" />
-  <ul>
-    {{ range (.GetTerms "tags") }}
-        <li><a href="{{ .Permalink }}">{{ .LinkTitle }}</a></li>
-   {{ end }}
-</ul>
   {{ range .Site.Params.navlinks }} {{ if .home }}
   <meta http-equiv="refresh" content="0; URL={{ .url | absURL }}" />
   {{ end }} {{ end }}
