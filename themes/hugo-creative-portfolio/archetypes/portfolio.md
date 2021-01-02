@@ -2,5 +2,6 @@
 draft = false
 image = ""
 showonlyimage = false
-extlink ""
+extlink = ""
+isextlink = false
 +++
