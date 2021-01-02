@@ -1,18 +1,15 @@
 +++
-showonlyimage = true
-isurl = true
-url = "baidu.com"
+date = "2016-11-05T19:41:01+05:30"
+title = "Name of the work 2"
 draft = false
-image = "img/portfolio/a4-paper.jpg"
-date = "2016-11-05T18:25:22+05:30"
-title = "Name of the work 1"
-weight = 0
+image = "img/portfolio/business-card-26.jpg"
+showonlyimage = false
+weight = 1
 isextlink = true
 extlink = "https://medium.com"
 +++
 
-??
-Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life. One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.
+When she reached the first hills of the Italic Mountains, she had a last view back on the skyline of her hometown Bookmarksgrove, the headline of Alphabet Village and the subline of her own road, the Line Lane.
 
 <!--more-->
 
