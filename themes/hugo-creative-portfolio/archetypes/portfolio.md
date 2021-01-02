@@ -1,11 +1,11 @@
 +++
 title = "{{ replace .Name "-" " " | title }}"
-date = {{ .Date }}
-draft = false
 image = ""
-showonlyimage = false
 extlink = true
 _extlink = ""
+date = {{ .Date }}
+showonlyimage = false
+draft = false
 weight = 
 +++
 
