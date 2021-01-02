@@ -4,8 +4,8 @@ image = ""
 extlink = true
 _extlink = ""
 date = {{ .Date }}
-tags: [""]
-categories: [""]
+tags = [""]
+categories = [""]
 showonlyimage = false
 draft = false
 weight = 

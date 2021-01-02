@@ -4,8 +4,8 @@ image = "https://de.scalable.capital/images/3odztfgndkxn/2KKrBpR5eAu52gXFY6gdBs/
 extlink = false
 _extlink = ""
 date = ""
-tags: ["hugo"]
-categories: ["杂技浅尝"]
+tags = ["hugo"]
+categories = ["杂技浅尝"]
 showonlyimage = false
 draft = false
 weight = 1
