@@ -6,6 +6,7 @@ _extlink = ""
 date = ""
 showonlyimage = false
 draft = false
+weight = 1
 +++
 
 你好，世界；  
