@@ -16,8 +16,7 @@ googleAnalytics = ""
   description = "Describe your website"
   copyright = "&copy;2021 THE WOLF TEAM OF GCU ROBOT"
   sidebarAbout = [
-    "知识库",
-    "..."
+    "就是一个普普通通的知识库",
   ]
   # Contact page
      # Since this template is static, the contact form uses www.formspree.io as a
