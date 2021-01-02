@@ -8,6 +8,7 @@ tags = ["hugo"]
 categories = ["杂技浅尝"]
 showonlyimage = false
 draft = false
+weight = -2
 +++
 
 你好，世界；  
