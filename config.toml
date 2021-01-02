@@ -68,3 +68,6 @@ googleAnalytics = ""
   gitlab        = ""
   youtube       = ""
   whatsapp      = ""
+
+
+unsafe = true
