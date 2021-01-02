@@ -44,17 +44,26 @@ googleAnalytics = ""
 
   # Nav links in the side bar
   [[params.navlinks]]
-  name = "Home"
+  name = "首页"
   url = "home/"
   home = true
 
   [[params.navlinks]]
-  name = "About"
+  name = "关于"
   url = "about/"
 
   [[params.navlinks]]
-  name = "Contact"
+  name = "联系"
   url = "contact/"
+
+  [[params.navlinks]]
+  name = "标签"
+  url = "tags/"
+
+  [[params.navlinks]]
+  name = "分类"
+  url = "categories/"
+
 
   [params.social]
   facebook      = ""
