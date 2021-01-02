@@ -5,4 +5,5 @@ image = "https://de.scalable.capital/images/3odztfgndkxn/2KKrBpR5eAu52gXFY6gdBs/
 date = "2021-1-02T18:25:22+05:30"
 extlink = true
 _extlink = "https://wiki-power.com"
+weight = 0
 +++
