@@ -3,12 +3,11 @@ title = "A"
 image = ""
 extlink = false
 _extlink = ""
-date = ""
+date = "2021-01-09"
 tags = ["hugo"]
 categories = ["杂技浅尝"]
 showonlyimage = false
 draft = false
-date = "2021-01-09"
 +++
 
 aaa
