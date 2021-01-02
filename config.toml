@@ -53,8 +53,8 @@ googleAnalytics = ""
   url = "about/"
 
   [[params.navlinks]]
-  name = "Get in touch"
-  url = "contact/"
+  #name = "Get in touch"
+  #url = "contact/"
 
   [params.social]
   facebook      = ""
