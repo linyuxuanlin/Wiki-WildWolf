@@ -5,7 +5,7 @@ extlink = true
 _extlink = "https://wiki-power.com/%E5%A6%82%E4%BD%95%E5%9C%A8iPad%E4%B8%8A%E8%BF%90%E8%A1%8CVSCode"
 showonlyimage = false
 draft = false
-weight = 0
+weight = 2
 +++
 
 随时随地，皆可办公
