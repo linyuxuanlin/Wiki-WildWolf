@@ -79,3 +79,7 @@ googleAnalytics = ""
   whatsapp      = ""
 
 
+[taxonomies]
+  tag = "tags"
+  series = "series"
+  category = "categories"
