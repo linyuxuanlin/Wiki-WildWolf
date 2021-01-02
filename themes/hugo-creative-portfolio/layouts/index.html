@@ -1,7 +1,6 @@
-<head> 
-    {{ range .Site.Params.navlinks }}
-    {{ if .home }}
-    <meta http-equiv="refresh" content="0; URL={{ .url | absURL }}" />
-    {{ end }}
-    {{ end }}
-  </head>
+<head>
+  <link rel="shortcut icon" href="/img/aviconfile.ico" />
+  {{ range .Site.Params.navlinks }} {{ if .home }}
+  <meta http-equiv="refresh" content="0; URL={{ .url | absURL }}" />
+  {{ end }} {{ end }}
+</head>
