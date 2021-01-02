@@ -1,7 +1,7 @@
 baseURL = "https://wiki.wildwolf.tech/"
 title = "野狼队知识库"
 theme = "hugo-creative-portfolio"
-languageCode = "en-us"
+languageCode = "zh-cn"
 # Enable comments by entering your Disqus shortname
 disqusShortname = ""
 # Enable Google Analytics by entering your tracking code
