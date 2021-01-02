@@ -1,5 +1,5 @@
-baseURL = "https://wiki-wolf-hugo.vercel.app/"
-title = "野狼知识库"
+baseURL = "https://wiki.wildwolf.tech/"
+title = "野狼队知识库"
 theme = "hugo-creative-portfolio"
 languageCode = "en-us"
 # Enable comments by entering your Disqus shortname
