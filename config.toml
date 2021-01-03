@@ -105,4 +105,4 @@ googleAnalytics = ""
   series = "series"
   category = "categories"
 
-disablePathToLower: true
+disablePathToLower = true
