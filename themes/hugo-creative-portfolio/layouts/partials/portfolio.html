@@ -29,7 +29,7 @@
                       {{ else }}
                       <div class="box-masonry-text">
                       {{ end }}
-                        {{ if eq .Params.extlink true }}
+                        {{ if eq .Params.extlink false }}
                           <h4><a href="{{ .Permalink }}">{{ .Title }}</a></h4>
                         {{ else }}
                           <h4><a href="{{ .Params._extlink }}">{{ .Title }}</a></h4>
