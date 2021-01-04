@@ -27,6 +27,11 @@
 <link href="{{ "css/custom.css" | absURL }}" rel="stylesheet">
 <link rel="shortcut icon" href="{{ "img/favicon.png" | absURL }}">
 {{ with .OutputFormats.Get "RSS" }}
-  {{ printf `<link href="%s" rel="%s" type="%s" title="%s" />` .Permalink .Rel .MediaType.Type $.Site.Title | safeHTML }}
+  {{ if eq .Params.extlink false }}
+    {{ printf `<link href="%s" rel="%s" type="%s" title="%s" />` .Permalink .Rel .MediaType.Type $.Site.Title | safeHTML }}
+  {{ else }}
+    {{ printf `<link href="%s" rel="%s" type="%s" title="%s" />` .Params._extlink .Rel .MediaType.Type $.Site.Title | safeHTML }}
+  {{ end }}
+
 {{ end }}
 {{ template "_internal/google_analytics_async.html" . }}
