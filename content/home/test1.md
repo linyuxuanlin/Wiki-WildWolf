@@ -1,5 +1,5 @@
 +++
-title = "test1"
+title = ""
 image = ""
 extlink = false
 _extlink = ""
