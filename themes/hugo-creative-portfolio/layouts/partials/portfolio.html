@@ -31,10 +31,13 @@
                       {{ end }}
                         {{ if .Params.tags }}
                         <h4><a href="{{ .Params._extlink }}">{{ .Title }}</a></h4>
-                        <samp style="color:#ACAFB4";>{{ .Date.Format "2006-01-02"}}</samp>
-                        &nbsp&nbsp
+                        
+                        <a href="https://wiki.wildwolf.tech/categories/"><samp style="color:#B0B3B7";>{{ .Params.categories}}</samp></a>
+                        &nbsp
                         <a href="https://wiki.wildwolf.tech/tags/"><samp style="color:#B0B3B7";>{{ .Params.tags}}</samp></a>
-                        &nbsp&nbsp
+                      </br>
+                        <samp style="color:#ACAFB4";>{{ .Date.Format "2006-01-02"}}</samp>
+                        &nbsp
                         <samp style="color:#B0B3B7";>{{ .Params.authors}}</samp>
                         {{ else }}
                           <h4><a href="{{ .Permalink }}">{{ .Title }}</a></h4>

@@ -105,9 +105,5 @@ googleAnalytics = ""
 
 
 
-[taxonomies]
-  tag = "tags"
-  author = "authors"
-  category = "categories"
 
 disablePathToLower = false
