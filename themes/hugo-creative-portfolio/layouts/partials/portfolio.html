@@ -30,13 +30,13 @@
                       <div class="box-masonry-text">
                       {{ end }}
                         {{ if .Params.tags }}
-                        <h4><a href="{{ .Description }}">{{ .Title }}</a></h4>
-                        <p>{{ .Params.des }}</p>
-                        <a href="../../categories/"><samp style="color:#B0B3B7";>{{ .Params.categories}}</samp></a>
+                        <h4><a href="{{ .Params._extlink }}">{{ .Title }}</a></h4>
+                        <p>{{ .Params.description }}</p>
+                        <a href="../../categories/"><samp  style="color:#B0B3B7";>{{ .Params.categories}}</samp></a>
                         &nbsp
                         <a href="../../tags/"><samp style="color:#B0B3B7";>{{ .Params.tags}}</samp></a>
                       </br>
-                        <samp style="color:#ACAFB4";>{{ .Date.Format "2006-01-02"}}</samp>
+                        <samp style="color:#ACAFB4";>{{ .Date.Format "2006·1·2"}}</samp>
                         &nbsp
                         <a href="../../authors/"><samp style="color:#B0B3B7";>{{ .Params.authors}}</samp></a>
                         {{ else }}
