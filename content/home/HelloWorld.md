@@ -9,7 +9,6 @@ tags = ["Hello World"]
 categories = "杂谈"
 showonlyimage = false
 draft = false
+description = '你好，世界；你好，野狼！'
 +++
 
-你好，世界；  
-你好，野狼！
