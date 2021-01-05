@@ -4,5 +4,6 @@ title = "投稿"
 +++
 
 
-【腾讯文档】文章提交
-https://docs.qq.com/form/page/DUklUWXFrVWZ5R21k?_w_tencentdocx_form=1
+
+
+**投稿链接**：[**腾讯文档收集表**](https://docs.qq.com/form/page/DUklUWXFrVWZ5R21k?_w_tencentdocx_form=1) / 扫描下面的二维码👇
