@@ -5,10 +5,10 @@ extlink = false
 _extlink = ""
 date = 2020-01-02
 authors = 'WildWolf'
-tags = ["Hello World"]
 categories = "杂谈"
+tags = ["Hello World"]
+description = '你好，世界；你好，野狼！'
 showonlyimage = false
 draft = false
-description = '你好，世界；你好，野狼！'
 +++
 
