@@ -7,7 +7,7 @@ date = 2020-10-02
 authors = '林宇轩'
 categories = '教程'
 tags = ['软件']
-description = '随时随地，皆可办公'
+description = '随时随地，皆可办公。'
 showonlyimage = false
 draft = false
 +++
