@@ -14,9 +14,9 @@ googleAnalytics = ""
   # Use custom.css for your custom styling
   style = "default"
   description = "Describe your website"
-  copyright = "&copy;2021 THE WOLF TEAM OF GCU ROBOT"
+  copyright = "2021 &copy; All &nbsp;Rights &nbsp;Reserved <br>THE WOLF TEAM OF GCU ROBOT"
   sidebarAbout = [
-    "就是一个普普通通的知识库",
+    "就一个普普通通的知识库",
   ]
   # Contact page
      # Since this template is static, the contact form uses www.formspree.io as a
@@ -30,7 +30,7 @@ googleAnalytics = ""
      # - send a dummy email yourself to confirm your account
      # - click the confirm link in the email from www.formspree.io
      # - you're done. Happy mailing!
-  email = "you@yoursite.com"
+  email = "824676271@qq.com"
 
     # Optional Matomo analytics (formerly piwik)
       # [params.analytics.matomo]
