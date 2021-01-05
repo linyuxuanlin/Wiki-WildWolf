@@ -68,6 +68,10 @@ googleAnalytics = ""
   name = "作者"
   url = "authors/"
 
+  [[params.navlinks]]
+  name = "投稿"
+  url = "contribute/"
+
 
   [params.social]
   facebook      = ""
