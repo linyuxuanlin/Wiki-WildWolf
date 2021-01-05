@@ -6,4 +6,4 @@ title = "投稿"
 
 
 
-**投稿链接**：[**腾讯文档收集表**](https://docs.qq.com/form/page/DUklUWXFrVWZ5R21k?_w_tencentdocx_form=1) / 扫描下面的二维码👇
+**投稿链接**：点击或扫描下方二维码👇
