@@ -30,16 +30,16 @@
                       <div class="box-masonry-text">
                       {{ end }}
                         {{ if .Params.tags }}
-                          <h4><a href="{{ .Params._extlink }}">{{ .Title }}</a></h4>
+                        <h4><a href="{{ .Params._extlink }}">{{ .Title }}</a></h4><samp>{{ .Date.Format "2006-01-02"}}</samp>&nbsp&nbsp<a href={{ .Params.baseURL }}tags><samp style="color:#D9D9D9";>{{ .Params.tags}}</a></samp>
                         {{ else }}
                           <h4><a href="{{ .Permalink }}">{{ .Title }}</a></h4>
                         {{ end }}
                           <div class="box-masonry-description">
                             <p>
                                 {{ if .Description }}
-                                  {{ .Description }}</br><code>{{ .Params.date.Format "2006-01-02"}}</code>
+                               {{ .Description }}
                                 {{ else }}
-                                  {{ .Summary }}</br><code>{{ .Params.date.Format "2006-01-02"}}</code>
+                                {{ .Summary }}
                                 {{ end }}
                             </p>
                           </div>
