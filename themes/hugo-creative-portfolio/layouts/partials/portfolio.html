@@ -37,9 +37,9 @@
                           <div class="box-masonry-description">
                             <p>
                                 {{ if .Description }}
-                                  {{ .Description }}</br><code>{{ .Params.date.Format "January 2, 2006"}}</code>
+                                  {{ .Description }}</br><code>{{ .Params.date.Format "2006-01-02"}}</code>
                                 {{ else }}
-                                  {{ .Summary }}</br><code>{{ .Params.date.Format "January 2, 2006"}}</code>
+                                  {{ .Summary }}</br><code>{{ .Params.date.Format "2006-01-02"}}</code>
                                 {{ end }}
                             </p>
                           </div>
