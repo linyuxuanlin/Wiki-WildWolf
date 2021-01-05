@@ -45,6 +45,7 @@ googleAnalytics = ""
   [[params.navlinks]]
   name = "首页"
   url = "posts/"
+  home = true
 
   [[params.navlinks]]
   name = "关于"
