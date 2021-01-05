@@ -4,8 +4,9 @@ image = "https://de.scalable.capital/images/3odztfgndkxn/2KKrBpR5eAu52gXFY6gdBs/
 extlink = false
 _extlink = ""
 date = 2020-01-02
-tags = ["hugo"]
-categories = ["杂技浅尝"]
+authors = 'WildWolf'
+tags = ["Hello World"]
+categories = "杂谈"
 showonlyimage = false
 draft = false
 +++
