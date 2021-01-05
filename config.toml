@@ -51,10 +51,7 @@ googleAnalytics = ""
   name = "关于"
   url = "about/"
 
-  [[params.navlinks]]
-  name = "联系"
-  url = "contact/"
-
+ 
   [[params.navlinks]]
   name = "标签"
   url = "tags/"
