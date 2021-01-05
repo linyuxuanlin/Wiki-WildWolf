@@ -104,6 +104,9 @@ googleAnalytics = ""
   homepage = "https://bootstrapious.com/p/creative-portfolio"
 
 
-
+[taxonomies]
+  tag = "tags"
+  author = "authors"
+  category = "categories"
 
 disablePathToLower = false
