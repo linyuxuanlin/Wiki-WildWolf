@@ -64,6 +64,11 @@ googleAnalytics = ""
   url = "categories/"
 
 
+  [[params.navlinks]]
+  name = "作者"
+  url = "authors/"
+
+
   [params.social]
   facebook      = ""
   googleplus    = ""
@@ -102,7 +107,7 @@ googleAnalytics = ""
 
 [taxonomies]
   tag = "tags"
-  series = "series"
+  author = "authors"
   category = "categories"
 
-disablePathToLower = true
+disablePathToLower = false
