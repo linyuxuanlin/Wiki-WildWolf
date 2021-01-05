@@ -1,6 +1,6 @@
 <head>
   <link rel="shortcut icon" href="/img/aviconfile.ico" />
-  {{ range .Site.Params.navlinks }} {{ if .home }}
+  {{ range .Site.Params.navlinks }} {{ if .posts }}
   <meta http-equiv="refresh" content="0; URL={{ .url | absURL }}" />
   {{ end }} {{ end }}
 </head>
