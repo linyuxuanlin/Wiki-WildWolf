@@ -489,7 +489,7 @@ SIDEBAR + RIGHT COLUMN
 
 .content-column-content ul li:before {
   font-family: 'FontAwesome';
-  content: '\f106';
+  content: '-';
   margin: 0 5px 0 -15px;
   color: #000000;
 }
