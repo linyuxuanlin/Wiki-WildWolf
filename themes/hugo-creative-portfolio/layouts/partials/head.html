@@ -25,8 +25,11 @@
 
 <!-- Custom stylesheet - for your changes -->
 <link href="{{ "css/custom.css" | absURL }}" rel="stylesheet">
-<link rel="shortcut icon" href="{{ "img/favicon.png" | absURL }}">
+<link rel="shortcut icon" href="{{ "https://wiki-media-1253965369.cos.ap-guangzhou.myqcloud.com/img/20210106162442.jpg" | absURL }}">
 {{ with .OutputFormats.Get "RSS" }}
   {{ printf `<link href="%s" rel="%s" type="%s" title="%s" />` .Permalink .Rel .MediaType.Type $.Site.Title | safeHTML }}
 {{ end }}
 {{ template "_internal/google_analytics_async.html" . }}
+
+
+
