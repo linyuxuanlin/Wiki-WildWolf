@@ -51,14 +51,13 @@ googleAnalytics = ""
   # name = "关于"
   # url = "about/"
 
+  [[params.navlinks]]
+  name = "分类"
+  url = "categories/"
  
   [[params.navlinks]]
   name = "标签"
   url = "tags/"
-
-  [[params.navlinks]]
-  name = "分类"
-  url = "categories/"
 
 
   [[params.navlinks]]
