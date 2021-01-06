@@ -487,9 +487,6 @@ SIDEBAR + RIGHT COLUMN
   list-style-type: none;
 }
 
-.content-column-content ul li:before {
-  
-}
 
 .small-navbar {
   margin-bottom: 20px;
