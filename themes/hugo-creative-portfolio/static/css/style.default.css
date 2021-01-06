@@ -489,9 +489,9 @@ SIDEBAR + RIGHT COLUMN
 
 .content-column-content ul li:before {
   font-family: 'FontAwesome';
-  content: '\f105';
+  content: '\f106';
   margin: 0 5px 0 -15px;
-  color: #4285F4;
+  color: #000000;
 }
 
 .small-navbar {
