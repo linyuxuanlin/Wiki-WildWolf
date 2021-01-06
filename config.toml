@@ -47,9 +47,9 @@ googleAnalytics = ""
   url = "home/"
   home = true
 
-  [[params.navlinks]]
-  name = "关于"
-  url = "about/"
+  # [[params.navlinks]]
+  # name = "关于"
+  # url = "about/"
 
  
   [[params.navlinks]]
