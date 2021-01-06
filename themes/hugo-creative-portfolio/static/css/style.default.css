@@ -487,6 +487,12 @@ SIDEBAR + RIGHT COLUMN
   list-style-type: none;
 }
 
+.content-column-content ul li:before {
+  
+  content: '-';
+  margin: 0 5px 0 -15px;
+  color: #000000;
+}
 
 .small-navbar {
   margin-bottom: 20px;
