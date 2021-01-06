@@ -423,7 +423,7 @@ SIDEBAR + RIGHT COLUMN
 }
 
 .sidebar-menu li:before {
-  content: '·';
+  content: '-';
   margin: 0 5px 0 -15px;
   color: #999999;
 }
@@ -488,7 +488,7 @@ SIDEBAR + RIGHT COLUMN
 
 .content-column-content ul li:before {
   
-  content: '·';
+  content: '-';
   margin: 0 5px 0 -15px;
   color: #000000;
 }
