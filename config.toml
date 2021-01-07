@@ -18,10 +18,10 @@ googleAnalytics = ""
   ]
 
   # Nav links in the side bar
-  [[params.navlinks]]
-  name = "首页"
-  url = "/"
-  home = true
+  #[[params.navlinks]]
+  #name = "首页"
+  #url = "/"
+  #home = true
   
   [[params.navlinks]]
   name = "分类"
