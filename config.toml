@@ -1,4 +1,4 @@
-baseurl = "https://wiki.wildwolf.tech"
+baseurl = "https://wiki.wildwolf.tech/"
 title = "野狼队知识库"
 theme = "creative"
 languageCode = "zh-cn"
