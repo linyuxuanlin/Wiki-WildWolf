@@ -1,13 +1,11 @@
-baseURL = "https://wiki.wildwolf.tech"
+baseurl = "https://wiki.wildwolf.tech"
 title = "野狼队知识库"
-theme = "hugo-creative-portfolio"
+theme = "creative"
 languageCode = "zh-cn"
 # Enable comments by entering your Disqus shortname
 disqusShortname = ""
 # Enable Google Analytics by entering your tracking code
 googleAnalytics = ""
-
-# paginate = 5
 
 [params]
   # Style options: default (pink), blue, green, pink, red, sea, violet
@@ -16,41 +14,15 @@ googleAnalytics = ""
   description = "野狼队公开知识库"
   copyright = "2021 &copy; All &nbsp;Rights &nbsp;Reserved <br>THE WOLF TEAM OF GCU ROBOT"
   sidebarAbout = [
-    "公开知识库 | 华广机器人・野狼队",
+    "公开知识库 | 华广机器人・野狼队"
   ]
-  # Contact page
-     # Since this template is static, the contact form uses www.formspree.io as a
-     # proxy. The form makes a POST request to their servers to send the actual
-     # email. Visitors can send up to a 1000 emails each month for free.
-     #
-     # What you need to do for the setup?
-     #
-     # - set your email address under 'email' below
-     # - upload the generated site to your server
-     # - send a dummy email yourself to confirm your account
-     # - click the confirm link in the email from www.formspree.io
-     # - you're done. Happy mailing!
-  email = "824676271@qq.com"
-
-    # Optional Matomo analytics (formerly piwik)
-      # [params.analytics.matomo]
-      #  URL = "https://stats.example.com"
-      #  ID = "42"
-      #  # Track all subdomains with "*.example.com" (Optional)
-      #  domain = "www.example.com"
-      #  # Optional integrity check hash
-      #  hash = ""
 
   # Nav links in the side bar
   [[params.navlinks]]
   name = "首页"
-  url = "home/"
+  url = "/"
   home = true
-
-  # [[params.navlinks]]
-  # name = "关于"
-  # url = "about/"
-
+  
   [[params.navlinks]]
   name = "分类"
   url = "categories/"
@@ -68,41 +40,15 @@ googleAnalytics = ""
   name = "投稿"
   url = "contribute/"
 
-
   [params.social]
-  facebook      = ""
-  googleplus    = ""
-  email         = ""
-  twitter       = ""
-  linkedin      = ""
-  stackoverflow = ""
-  instagram     = ""
-  github        = ""
-  gitlab        = ""
-  youtube       = ""
-  whatsapp      = ""
-
-# theme.toml template for a Hugo theme
-# See https://github.com/spf13/hugoThemes#themetoml for an example
-
-#name = "Creative portfolio"
-#license = "MIT"
-#licenselink = "https://github.com/kishaningithub/hugo-creative-portfolio-theme/blob/master/LICENSE"
-#description = "Port of the creative portfolio theme"
-#homepage = "https://github.com/kishaningithub/hugo-creative-portfolio-theme"
-#tags = ["creative", "portfolio", "projects", "minimal", "responsive"]
-#features = ["disqus", "bootstrap", "responsive", "google analytics"]
-#min_version = 0.20
-
-[author]
-  name = "Power"
-  homepage = "https://github.com/kishaningithub"
-
-# If porting an existing theme
-[original]
-  name = "pwoer2"
-  homepage = "https://bootstrapious.com/p/creative-portfolio"
-
+  # facebook      = "full page or profile url in facebook"
+  # googleplus    = "full profile url in googleplus"
+  # email         = "email@example.com"
+  # twitter       = "full profile url in twitter"
+  # linkedin      = "full profile url in linkedin"
+  # stackoverflow = "full profile url in stackoverflow"
+  # instagram     = "full profile url in instagram"
+  # github        = "https://github.com/bul-ikana"
 
 [taxonomies]
   tag = "tags"
