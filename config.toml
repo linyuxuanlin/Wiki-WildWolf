@@ -21,7 +21,7 @@ googleAnalytics = ""
   #[[params.navlinks]]
   #name = "首页"
   #url = "/"
-  #home = true
+  home = true
   
   [[params.navlinks]]
   name = "分类"
