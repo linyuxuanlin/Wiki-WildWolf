@@ -1,15 +1,6 @@
-<!DOCTYPE html>
-<html lang="{{ .Site.LanguageCode }}">
-<head>{{ partial "head.html" . }}</head>
-<body>
-  <div id="all">
-      <div class="container-fluid">
-          <div class="row row-offcanvas row-offcanvas-left">
-              {{ partial "sidebar.html" . }}
-              {{ partial "portfolio.html" . }}
-          </div>
-      </div>
-  </div>
-  {{ partial "scripts.html" . }}
-</body>
-</html>
+<head>
+  <link rel="shortcut icon" href="/img/aviconfile.ico" />
+  {{ range .Site.Params.navlinks }} {{ if .home }}
+  <meta http-equiv="refresh" content="0; URL={{ .url | absURL }}" />
+  {{ end }} {{ end }}
+</head>
