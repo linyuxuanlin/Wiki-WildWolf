@@ -13,7 +13,7 @@ googleAnalytics = ""
   # Style options: default (pink), blue, green, pink, red, sea, violet
   # Use custom.css for your custom styling
   style = "default"
-  description = "Describe your website"
+  description = "野狼队公开知识库"
   copyright = "2021 &copy; All &nbsp;Rights &nbsp;Reserved <br>THE WOLF TEAM OF GCU ROBOT"
   sidebarAbout = [
     "公开知识库 | 华广机器人・野狼队",
