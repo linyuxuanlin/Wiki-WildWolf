@@ -12,3 +12,5 @@ showonlyimage = false
 draft = false
 +++
 
+
+hugo new --kind default.md xxx.md
