@@ -13,4 +13,4 @@ draft = false
 +++
 
 
-hugo new --kind default.md xxx.md
+hugo new xxx.md
