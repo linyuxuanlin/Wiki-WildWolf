@@ -10,14 +10,14 @@
                         {{ if eq .Params.extlink false }}
                           <a href="{{ .Permalink }}" title="" class="box-masonry-image with-hover-overlay">
                         {{ else }}
-                          <a href="{{ .Params._extlink }}" title="" class="box-masonry-image with-hover-overlay">
+                          <a href="{{ .Params._extlink }}" title="" class="box-masonry-image with-hover-overlay" target="_blank">
                         {{ end }}
 
                       {{ else }}
                         {{ if eq .Params.extlink false }}
                           <a href="{{ .Permalink }}" title="" class="box-masonry-image with-hover-overlay with-hover-icon">
                         {{ else }}
-                          <a href="{{ .Params._extlink }}" title="" class="box-masonry-image with-hover-overlay with-hover-icon">
+                          <a href="{{ .Params._extlink }}" title="" class="box-masonry-image with-hover-overlay with-hover-icon" target="_blank">
                         {{ end }}
                       {{ end }}
 
@@ -30,7 +30,7 @@
                     <div class="box-masonry-text">
                     {{ end }}
                       {{ if .Params.tags }}
-                      <h4><a href="{{ .Params._extlink }}">{{ .Title }}</a></h4>
+                      <h4><a href="{{ .Params._extlink }}" target="_blank">{{ .Title }}</a></h4>
                       <p>{{ .Params.description }}</p>
                       <a href="../../categories/"><samp  style="color:#B0B3B7";>{{ .Params.categories}}</samp></a>
                       &nbsp
