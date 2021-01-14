@@ -65,5 +65,3 @@ fields:
   label: 草稿否
   hidden: true
   default: false
-pages:
-- content/测试.md
