@@ -11,26 +11,49 @@ fields:
 - type: boolean
   name: extlink
   label: extlink
+  default: true
+  hidden: true
 - type: text
   name: _extlink
   label: _extlink
+  config:
+    required: true
 - type: datetime
   name: date
   label: date
+  config:
+    display_utc: true
+    export_format: ''
+  default: now
 - type: text
   name: authors
   label: authors
-- type: text
-  name: categories
-  label: categories
-- type: list
-  name: tags
-  label: tags
+- name: categories
+  type: select
+  default: 教程
+  config:
+    required: false
+    options:
+    - 教程
+    - 文档
+    - 杂谈
+    source:
+      type: simple
+      section: 
+      file: 
+      path: 
+  label: 分类
+- name: tags
+  type: tag_list
+  default: []
+  label: 标签
 - type: text
   name: description
   label: description
 - type: boolean
   name: showonlyimage
   label: showonlyimage
+  hidden: true
+  default: false
 pages:
 - content/test.md
