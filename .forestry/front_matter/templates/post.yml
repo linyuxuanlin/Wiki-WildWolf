@@ -1,0 +1,34 @@
+---
+label: Post
+hide_body: true
+fields:
+- type: text
+  name: title
+  label: title
+- type: file
+  name: image
+  label: image
+- type: boolean
+  name: extlink
+  label: extlink
+- type: text
+  name: _extlink
+  label: _extlink
+- type: datetime
+  name: date
+  label: date
+- type: text
+  name: authors
+  label: authors
+- type: text
+  name: categories
+  label: categories
+- type: list
+  name: tags
+  label: tags
+- type: text
+  name: description
+  label: description
+- type: boolean
+  name: showonlyimage
+  label: showonlyimage
