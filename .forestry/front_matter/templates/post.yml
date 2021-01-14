@@ -4,30 +4,35 @@ hide_body: true
 fields:
 - type: text
   name: title
-  label: title
+  label: 标题
+  config:
+    required: true
 - type: file
   name: image
-  label: image
+  label: 文章封面
 - type: boolean
   name: extlink
-  label: extlink
+  label: 是否为外链
   default: true
   hidden: true
 - type: text
   name: _extlink
-  label: _extlink
+  label: 外部链接
   config:
     required: true
+  showOnly:
+    field: extlink
+    value: true
 - type: datetime
   name: date
-  label: date
+  label: 日期
   config:
     display_utc: true
     export_format: ''
   default: now
 - type: text
   name: authors
-  label: authors
+  label: 作者
 - name: categories
   type: select
   default: 教程
@@ -49,16 +54,13 @@ fields:
   label: 标签
 - type: text
   name: description
-  label: description
+  label: 描述
 - type: boolean
   name: showonlyimage
-  label: showonlyimage
+  label: 是否只显示图片
   hidden: true
   default: false
 - name: draft
   type: boolean
   label: 是否为草稿
   hidden: true
-pages:
-- content/test.md
-- "content/测试 2 \U0001F44E\U0001F44E aaa.md"
