@@ -66,4 +66,5 @@ fields:
   hidden: true
   default: false
 pages:
+- content/2.md
 - content/测试.md
