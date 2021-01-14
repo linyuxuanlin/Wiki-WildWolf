@@ -55,3 +55,7 @@ fields:
   label: showonlyimage
   hidden: true
   default: false
+- name: draft
+  type: boolean
+  label: 是否为草稿
+  hidden: true
