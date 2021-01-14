@@ -59,3 +59,5 @@ fields:
   type: boolean
   label: 是否为草稿
   hidden: true
+pages:
+- content/test.md
