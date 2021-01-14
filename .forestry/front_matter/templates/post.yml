@@ -32,3 +32,5 @@ fields:
 - type: boolean
   name: showonlyimage
   label: showonlyimage
+pages:
+- content/test.md
