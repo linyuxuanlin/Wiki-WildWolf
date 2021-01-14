@@ -60,4 +60,5 @@ fields:
   label: 是否为草稿
   hidden: true
 pages:
+- content/2-aaa.md
 - content/test.md
