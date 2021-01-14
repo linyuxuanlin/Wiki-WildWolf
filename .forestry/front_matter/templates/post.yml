@@ -62,7 +62,8 @@ fields:
   default: false
 - name: draft
   type: boolean
-  label: 是否为草稿
+  label: 草稿否
   hidden: true
+  default: false
 pages:
 - content/测试.md
