@@ -62,3 +62,4 @@ fields:
 pages:
 - content/test.md
 - "content/测试 2 \U0001F44E\U0001F44E aaa.md"
+- content/测试中文.md
