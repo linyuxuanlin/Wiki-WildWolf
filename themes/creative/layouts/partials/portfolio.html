@@ -21,7 +21,7 @@
                         {{ end }}
                       {{ end }}
 
-                          <img src="{{.Params.image | absURL}}" alt="" class="img-responsive">
+                          <img src="{{.Params.image | absURL}}" loading="lazy" alt="" class="img-responsive">
                       </a>
                     {{ end }}
                     {{ if eq .Params.showonlyimage true }}
