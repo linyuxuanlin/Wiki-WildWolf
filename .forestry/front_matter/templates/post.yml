@@ -66,4 +66,4 @@ fields:
   hidden: true
   default: false
 pages:
-- content/docker.md
+- content/Docker简易指南.md
