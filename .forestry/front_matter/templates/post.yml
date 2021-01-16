@@ -65,3 +65,5 @@ fields:
   label: 草稿否
   hidden: true
   default: false
+pages:
+- content/docker.md
