@@ -67,3 +67,4 @@ fields:
   default: false
 pages:
 - content/Docker简易指南.md
+- content/docker-compose.md
