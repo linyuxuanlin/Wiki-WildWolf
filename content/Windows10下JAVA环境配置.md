@@ -7,7 +7,7 @@ description = ""
 extlink = true
 image = ""
 showonlyimage = false
-tags = []
+tags = ["Java"]
 title = "Windows 10 下 JAVA 环境配置"
 
 +++
