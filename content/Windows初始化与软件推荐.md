@@ -8,6 +8,6 @@ extlink = true
 image = "/uploads/my-computer.jpg"
 showonlyimage = false
 tags = ["软件"]
-title = "Windows初始化与软件推荐"
+title = "Windows 初始化与软件推荐"
 
 +++
