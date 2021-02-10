@@ -1,0 +1,13 @@
++++
+_extlink = "https://wiki-power.com/SWD%E4%B8%8EJTAG%E7%9A%84%E5%8C%BA%E5%88%AB%E4%B8%8E%E5%AF%B9%E6%AF%94"
+authors = "林宇轩"
+categories = "文档"
+date = 2021-02-10T04:58:49Z
+description = ""
+extlink = true
+image = "/uploads/dribbble1.png"
+showonlyimage = false
+tags = ["STM32"]
+title = "SWD 与 JTAG 的区别与对比"
+
++++
