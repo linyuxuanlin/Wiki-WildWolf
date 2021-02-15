@@ -8,6 +8,6 @@ extlink = true
 image = "https://cdn.jsdelivr.net/gh/linyuxuanlin/Wiki-WildWolf/static/uploads/dribbble1.png"
 showonlyimage = false
 tags = ["STM32"]
-title = "SWD 与 JTAG 的区别与对比"
+title = "SWD 与 JTAG 的区别与联系"
 
 +++
