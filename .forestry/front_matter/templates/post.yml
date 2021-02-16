@@ -73,12 +73,12 @@ pages:
 - content/SolidWorks装配体通过VRML格式导入Webots.md
 - content/Windows10下JAVA环境配置.md
 - content/Windows初始化与软件推荐.md
-- content/markdown.md
 - content/「不得不」与 「可以」 的区别.md
 - content/一次科目二练习引发的思考.md
 - content/不用学驾照了？.md
 - content/个人知识库的搭建 - 基于 Docusaurus.md
 - content/为什么你需要一个知识库.md
+- content/使用 Markdown 进行高效写作.md
 - content/如何制作 LEGO 像素画.md
 - content/如何找到图像中的直线.md
 - content/如何炒制肉冒.md
