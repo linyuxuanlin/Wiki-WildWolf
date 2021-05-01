@@ -8,6 +8,6 @@ extlink = true
 image = "/uploads/snipaste_2021-04-30_22-07-36.png"
 showonlyimage = false
 tags = ["Docker", "NAS", "电子书"]
-title = "基于 calibre-web 搭建在线书库（群晖 Docker）"
+title = "基于 Calibre 搭建在线书库（群晖 Docker）"
 
 +++
