@@ -76,7 +76,6 @@ pages:
 - content/SolidWorks装配体通过VRML格式导入Webots.md
 - content/Windows10下JAVA环境配置.md
 - content/Windows初始化与软件推荐.md
-- content/rsshub-rss-docker.md
 - content/「不得不」与 「可以」 的区别.md
 - content/一次科目二练习引发的思考.md
 - content/不用学驾照了？.md
@@ -90,6 +89,7 @@ pages:
 - content/基于 Bitwarden 搭建密码管理器（群晖 Docker）.md
 - content/基于 Calibre 搭建在线书库（群晖 Docker）.md
 - content/基于 acme.sh 自动申请域名证书（群晖 Docker）.md
+- content/基于RSSHub搭建RSS生成器（群晖Docker）.md
 - content/如何制作 LEGO 像素画.md
 - content/如何实现外网 RDP 远控（frp）.md
 - content/如何批量拉取 Git 仓库更新.md
