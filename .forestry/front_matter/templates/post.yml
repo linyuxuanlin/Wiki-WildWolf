@@ -86,6 +86,10 @@ pages:
 - content/使用 gitignore 忽略特殊文件.md
 - content/保持清醒与快速入睡的方法.md
 - content/双系统极简安装指南.md
+- content/基于 Calibre 搭建在线书库（群晖 Docker）.md
+- content/基于 acme.sh 自动申请域名证书（群晖 Docker）.md
+- content/基于Bitwarden搭建密码管理器（群晖Docker）.md
+- content/基于RSSHub搭建RSS生成器（群晖Docker）.md
 - content/如何制作 LEGO 像素画.md
 - content/如何实现外网 RDP 远控（frp）.md
 - content/如何批量拉取 Git 仓库更新.md
