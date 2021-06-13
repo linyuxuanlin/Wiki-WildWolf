@@ -66,37 +66,22 @@ fields:
   hidden: true
   default: false
 pages:
-- content/3D 打印：ABS 与 PLA 的区别.md
 - content/DockerCompose-更优雅的打开方式.md
 - content/Docker简易指南.md
-- content/How to calm yourself down.md
-- content/How to retrieve your own learning state in short order.md
 - content/RM2021视觉算法代码架构设计.md
-- content/SWD 与 JTAG 的区别与联系.md
 - content/SolidWorks装配体通过VRML格式导入Webots.md
 - content/Windows10下JAVA环境配置.md
 - content/Windows初始化与软件推荐.md
-- content/「不得不」与 「可以」 的区别.md
 - content/一次科目二练习引发的思考.md
 - content/不用学驾照了？.md
 - content/个人文案排版规范.md
-- content/个人知识库的搭建 - 基于 Docusaurus.md
 - content/为什么你需要一个知识库.md
-- content/使用 Markdown 进行高效写作.md
-- content/使用 gitignore 忽略特殊文件.md
 - content/保持清醒与快速入睡的方法.md
 - content/双系统极简安装指南.md
-- content/基于 Calibre 搭建在线书库（群晖 Docker）.md
-- content/基于 acme.sh 自动申请域名证书（群晖 Docker）.md
 - content/基于Bitwarden搭建密码管理器（群晖Docker）.md
 - content/基于RSSHub搭建RSS生成器（群晖Docker）.md
-- content/如何制作 LEGO 像素画.md
-- content/如何实现外网 RDP 远控（frp）.md
-- content/如何批量拉取 Git 仓库更新.md
 - content/如何找到图像中的直线.md
 - content/如何炒制肉冒.md
-- content/如何用 Markdown 写一份简历.md
 - content/如何调制一杯鸡尾酒.md
 - content/如何造一台工程机器人（下）.md
-- content/英语学习 - 阅读篇.md
 - content/锂电池的选型.md
