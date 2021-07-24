@@ -12,7 +12,7 @@ disqusShortname = ""
   # Use custom.css for your custom styling
   style = "default"
   description = "野狼队公开知识库"
-  copyright = '2021 &copy; All &nbsp;Rights &nbsp;Reserved <br>THE WOLF TEAM OF GCU ROBOT<br><a href="https://nav.wildwolf.tech/">野狼博客导航</a>'
+  copyright = '2021 &copy; All &nbsp;Rights &nbsp;Reserved <br>THE WOLF TEAM OF GCU ROBOT<br>导航站<a href="https://nav.wildwolf.tech/">nav.wildwolf.tech</a>'
   sidebarAbout = [
     "公开知识库 | 华广机器人・野狼队"
   ]
