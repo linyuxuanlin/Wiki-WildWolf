@@ -22,6 +22,10 @@ disqusShortname = ""
   #name = "首页"
   #url = "/"
   home = true
+
+  [[params.navlinks]]
+  name = "导航站"
+  url = "https://nav.wildwolf.tech/"
   
   [[params.navlinks]]
   name = "分类"
