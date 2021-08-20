@@ -4,7 +4,6 @@ authors = "伍晁均"
 categories = "杂谈"
 date = 2021-08-20T02:09:59Z
 description = "间歇性颓废的自救法则。"
-draft = true
 extlink = true
 image = "/uploads/escape-from-decadence.png"
 showonlyimage = false
