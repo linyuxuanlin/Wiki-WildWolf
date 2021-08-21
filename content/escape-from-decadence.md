@@ -7,7 +7,7 @@ description = "间歇性颓废的自救法则。"
 extlink = true
 image = "/uploads/escape-from-decadence.png"
 showonlyimage = false
-tags = []
+tags = ["效率"]
 title = "Escape from decadence"
 
 +++
