@@ -68,12 +68,12 @@ fields:
 pages:
 - content/DockerCompose-更优雅的打开方式.md
 - content/Docker简易指南.md
+- content/Quartus Prime - 英特尔 FPGA 编程软件.md
 - content/RM2021视觉算法代码架构设计.md
 - content/SolidWorks装配体通过VRML格式导入Webots.md
 - content/Windows10下JAVA环境配置.md
 - content/Windows初始化与软件推荐.md
 - content/escape-from-decadence.md
-- content/quartus-prime-fpga.md
 - content/一个简单的串级PID调法.md
 - content/一次科目二练习引发的思考.md
 - content/不用学驾照了？.md
